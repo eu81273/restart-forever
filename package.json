@@ -1,0 +1,19 @@
+{
+  "name": "restart-forever",
+  "version": "1.0.0",
+  "description": "Restart node.js application when the application is closed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eu81273/restart-forever.git"
+  },
+  "author": "AHN JAE-HA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eu81273/restart-forever/issues"
+  },
+  "homepage": "https://github.com/eu81273/restart-forever"
+}
